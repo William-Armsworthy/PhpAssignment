@@ -11,7 +11,6 @@
     <link rel="stylesheet" href="./Content/app.css">
 </head>
 <body>
-
 <div class="container">
     <div class="login-container">
         <div id="output"></div>
@@ -26,6 +25,5 @@
     </div>
 
 </div>
-
 </body>
 </html>
