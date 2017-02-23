@@ -1,3 +1,8 @@
+<?php
+
+
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +17,6 @@
 </head>
 <body>
 
-<!-- BEGIN # BOOTSNIP INFO -->
 <div class="container">
     <div class="card card-container">
         <!-- <img class="profile-img-card" src="//lh3.googleusercontent.com/-6V8xOA6M7BA/AAAAAAAAAAI/AAAAAAAAAAA/rzlHcD0KYwo/photo.jpg?sz=120" alt="" /> -->
@@ -34,6 +38,6 @@
         </a>
     </div><!-- /card-container -->
 </div><!-- /container -->
-<!-- END # MODAL LOGIN -->
+
 </body>
 </html>
