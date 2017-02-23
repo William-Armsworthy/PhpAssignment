@@ -16,7 +16,6 @@ include_once('config.php');
     <link rel="stylesheet" href="./Scripts/lib/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="./Scripts/lib/bootstrap/dist/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="./Scripts/lib/font-awesome/css/font-awesome.css">
-    <script src="http://mymaplist.com/js/vendor/TweenLite.min.js"></script>
     <link rel="stylesheet" href="./Content/app.css">
 </head>
 <body>
