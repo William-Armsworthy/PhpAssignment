@@ -1,14 +1,9 @@
-<?php
-
-
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>PHPAS1</title>
+    <title>Assignment1</title>
     <!-- CSS Section -->
     <link rel="stylesheet" href="./Scripts/lib/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="./Scripts/lib/bootstrap/dist/css/bootstrap-theme.min.css">
