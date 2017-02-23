@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./Scripts/lib/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="./Scripts/lib/bootstrap/dist/css/bootstrap-theme.min.css">
     <link rel="stylesheet" href="./Scripts/lib/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="mycss.css">
     <link rel="stylesheet" href="./Content/app.css">
 </head>
 <body>
